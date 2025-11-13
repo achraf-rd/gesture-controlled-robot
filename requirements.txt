@@ -1,0 +1,22 @@
+# Core Computer Vision and Machine Learning
+opencv-python>=4.5.0
+mediapipe>=0.8.9
+numpy>=1.19.0
+
+# GUI Framework
+PyQt5>=5.15.0
+
+# Networking (usually included with Python, but listed for clarity)
+# socket is built-in
+# json is built-in
+
+# Optional: Development and testing
+# pytest>=6.0.0
+# flake8>=3.8.0
+# black>=21.0.0
+
+# Note: For production deployment, consider pinning exact versions:
+# opencv-python==4.8.1.78
+# mediapipe==0.10.7
+# numpy==1.24.3
+# PyQt5==5.15.9
